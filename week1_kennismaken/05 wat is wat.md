@@ -3,25 +3,28 @@
 
 > ![](img/macvisual.PNG)
 
-> #### UITLEG
-> dat zijn een hoop files
-> - `bin` en `obj`, worden door de compiler gemaakt, daar zitten we nu niet aan
-> - `Controllers` is waar wij onze `logic` code stoppen
-> - `Models` is waar wij code maken welke een `ding` modelleert
->   - bijvoorbeeld: `persoon` , `auto`, `reis`
-> - `Views` is waar onze `HTML` generatie code komt
-> - `wwwroot` is waar *statische* `html`, `css` en `images` komen
-> - `Program.cs` is het `startpunt` van onze code
+- lees:
+    ```
+    dat zijn een hoop files
+    - `bin` en `obj`, worden door de compiler gemaakt, daar zitten we nu niet aan
+    - `Controllers` is waar wij onze `logic` code stoppen
+    - `Models` is waar wij code maken welke een `ding` modelleert
+    - bijvoorbeeld: `persoon` , `auto`, `reis`
+    - `Views` is waar onze `HTML` generatie code komt
+    - `wwwroot` is waar *statische* `html`, `css` en `images` komen
+    - `Program.cs` is het `startpunt` van onze code
+    ```
 
 ## UITLEG Compilen
-
-- Dit is `.net` niet javascript. 
-    - Deze taal moet `gecompiled` worden
-        - bij javascript gebeurt dat automatisch
-- Dit betekent als je iets veranderd aan je `.cs` code je:
-    - opnieuw  `dotnet run` moet typen
-        - deze `compiled automatisch` als er wat veranderd is
-
+- lees:
+    ``` 
+    - Dit is `.net` niet javascript. 
+        - Deze taal moet `gecompiled` worden
+            - bij javascript gebeurt dat automatisch
+    - Dit betekent als je iets veranderd aan je `.cs` code je:
+        - opnieuw  `dotnet run` moet typen
+            - deze `compiled automatisch` als er wat veranderd is
+    ```
 ## proberen
 
 - `dotnet run` je programma

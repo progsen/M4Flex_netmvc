@@ -32,7 +32,8 @@ dit is om even de commandline te leren kennen
 - open je terminal/cmd
     - ga naar je `eersteproject` directory
     - type `dotnet new console`
-    > ![](img/newconsole.PNG)
+
+        > ![](img/newconsole.PNG)
 
 
 ## draaien
@@ -40,11 +41,13 @@ dit is om even de commandline te leren kennen
 - ga naar je `newssite` directory
 - in je terminal type :
     - `dotnet build`
-    > ![](img/build.PNG)
+
+        > ![](img/build.PNG)
     - als er geen errors zijn:
         - type
             - `dotnet run`
-            > ![](img/runconsole.PNG)
+
+                > ![](img/runconsole.PNG)
 
 ## aanpassen & herhaling
 

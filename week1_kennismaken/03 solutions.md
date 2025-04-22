@@ -5,19 +5,21 @@
 - open je terminal/cmd
     - ga naar je `solutions` directory
     - type `dotnet new sln`
-    > ![](img/newsln.PNG)
+
+        > ![](img/newsln.PNG)
 
 ## build?
 
 - probeer nu dotnet build
     > ![](img/nobuild.PNG)
+    
 - lees:
-```
-dat werkt niet? waarom?
+    ```
+    dat werkt niet? waarom?
 
-- omdat deze solution nog geen projecten heeft
-- die gaan we toevoegen
-```
+    - omdat deze solution nog geen projecten heeft
+    - die gaan we toevoegen
+    ```
 
 ## project
 

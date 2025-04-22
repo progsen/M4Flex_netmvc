@@ -43,7 +43,7 @@ zag je wat er op het plaatje stond?
 #### project openen:
 - dubbel click op het newssite.csproj
     - visual studio opent
-    > ![](img/visualstudio.PNG)
+        > ![](img/visualstudio.PNG)
 
 
 #### draaien

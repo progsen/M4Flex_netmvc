@@ -8,7 +8,7 @@
 - open je terminal/cmd
     - ga naar je `newssite` directory
     - type `dotnet new mvc`
-    > ![](img/newproject.PNG)
+        > ![](img/newproject.PNG)
 
 
 ## openen:
@@ -21,7 +21,7 @@
 - ga naar je `newssite` directory
 - in je terminal type :
     - `dotnet build`
-    > ![](img/build.PNG)
+        > ![](img/build.PNG)
     - als er geen errors zijn:
         - type
             - `dotnet run`
@@ -36,9 +36,6 @@
 
 ## Klaar?
 
-- git add .
-- git status
-    - staan de `bin` en `obj` er tussen?
-        - dan is je `.gitignore` niet goed
-            - `fix` dat!
-- commit naar je repo voor dit vak
+
+- commit & push naar je repo voor dit vak
+

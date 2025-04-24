@@ -14,6 +14,7 @@
        - games
        - of verzin zelf iets
  - maak nu een nieuwe Pagina voor jouw onderwerp
+      - zorg dat je de pagina OOK in de header ziet!
  - gebruik wat je geleerd hebt om daar vanuit een `data bron` meerdere van te tonen
       - Maak een nieuwe Controller, Model en View!!
 ```

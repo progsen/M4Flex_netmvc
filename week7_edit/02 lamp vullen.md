@@ -60,12 +60,20 @@
     > ![](img/formperlamp.PNG)
 
 - lees:
-```
-zie je die Html.BeginForm? Daarmee zeggen we maak een html formulier
-die update en lamp strings worden de url:
-- http://localhost:5268/Lamp/Update
-   kijk in LampController naar de function Update
-```
+    ```
+    zie je die Html.BeginForm? Daarmee zeggen we maak een html formulier
+    die update en lamp strings worden de url:
+    - http://localhost:5268/Lamp/Update
+    kijk in LampController naar de function Update, zie je dat de update naam dan in de url zit?
+    ```
+
+## lampje aan of uit?
+
+- gebruik in Index.cshtml een if om te laten zien of de lamp aan of uit is
+    > ![](img/aanuit.PNG)
+
+
+
 ## Klaar?
 
 - commit naar je repo voor dit vak

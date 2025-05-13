@@ -27,8 +27,8 @@
     - zie je daar ons `NewsItem` nog staan?
         - haal die weg
         - verander nu `item` in `View(item)` naar `newsItems`
-        > zo geven we `newsItems` naar de `view` door als `Model`
-        > ![](img/IndexItems.PNG)
+            > zo geven we `newsItems` naar de `view` door als `Model`  
+            > ![](img/IndexItems.PNG)
 
 ## De view nog
 

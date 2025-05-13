@@ -18,7 +18,8 @@ een ander variant is ASP .net, die is van microsoft en is ook platform onafhanke
 Ga naar:
 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
-- installeer de SDK 8.0 voor jouw systeem
+- installeer de SDK 8.0.x (hoogste) voor jouw systeem
+    - voor windows zal dat de x64 versie zijn
 - open je terminal/cmd
     - type dotnet
     - zie je dit?

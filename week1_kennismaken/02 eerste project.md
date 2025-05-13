@@ -50,7 +50,6 @@ dit is om even de commandline te leren kennen
 
 ## draaien
 
-- ga naar je `newssite` directory
 - in je terminal type :
     - `dotnet build`
 

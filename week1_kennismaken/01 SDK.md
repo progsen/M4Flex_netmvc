@@ -31,10 +31,3 @@ Ga naar:
     - zag je wat er op het plaatje stond?
         - dan ben je klaar voor de start
 
-## simulize
-        
-- lever je repository in in simulize
-    > ZOEK M4Flex
-    
-    >![](img/m4flex.PNG)
-    

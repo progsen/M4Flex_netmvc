@@ -4,6 +4,18 @@
     - `M4FlexNetMVC`
 - clone die naar je PC
 
+
+
+
+## simulize
+        
+- lever je repository in in simulize
+    > ZOEK M4Flex
+    
+    >![](img/m4flex.PNG)
+    
+    
+## ignore
 - open je `M4FlexNetMVC` directory in visual studio code
     - maak een `.gitignore` file
         - zet daar het volgende in:

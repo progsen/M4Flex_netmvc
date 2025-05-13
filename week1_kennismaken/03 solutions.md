@@ -29,8 +29,10 @@
 - controlleer of je dit hebt
     > ![](img/checksln.PNG)
 
+
 ## toevoegen
 
+- ga in je terminal terug naar de solutions directory
 - voeg het project toe
     > ![](img/toevoegen.PNG)
 

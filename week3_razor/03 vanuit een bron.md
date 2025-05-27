@@ -18,6 +18,10 @@ We gaan voor nu even een `json` file maken als `data bron`
 ## berichten lezen
 
 - open je `HomeController`
+    - zet bovenaan deze code:
+    ```Cs
+    using System.Text.Json;
+    ```
     - zet daar `onderaan` in de `constructor` :
         > ![](img/readnews.PNG)
 

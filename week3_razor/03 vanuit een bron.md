@@ -25,7 +25,7 @@ We gaan voor nu even een `json` file maken als `data bron`
     - zet daar `onderaan` in de `constructor` :
         > ![](img/readnews.PNG)
 
-- haal je `NewsItem`  maak en aan code weg
+- haal je `NewsItems toevoegen` code van de vorige oefening weg
     - dus de `newsItems.add` die je in dit plaatje ziet:
         >![](img/add.PNG)
 - test je site:

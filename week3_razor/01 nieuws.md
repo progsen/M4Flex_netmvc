@@ -20,7 +20,12 @@
 
 - klap de `Models` directory open en maak een nieuwe file:
     - `NewsItem.cs`
-        - zet het volgende daarin:
+    
+        - zet bovenaan deze code:
+            ```Cs
+            namespace newssite.Models;
+            ```
+        - zet het daaronder:
             > ![](img/newsitem.PNG)
 
 > #### UITLEG
